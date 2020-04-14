@@ -1,5 +1,5 @@
 # Yun_text
-Yun text is a text mining tool that support the user to do the basic text mining task. Currently, this package allows users to compute the variable numerical statistics of the given document of corpus.
+Yun text is a text mining tool that support the user to do the basic text mining task. Currently, this package allows users to compute the variable numerical statistics of the given document or corpus.
 
 ## Prequisite
 You should ensure that you have install the following dependencies. If you have not done so, you can follow the following instructions to install them.
