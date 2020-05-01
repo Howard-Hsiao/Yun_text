@@ -24,7 +24,7 @@ Officially Python 3.6.1 and above, 3.7, and 3.8.
 ```shell
 git clone https://github.com/Howard-Hsiao/Yun_text.git
 ```
-2. Move the whole directory "/src/" to the same folder where the code using it exist
+2. Move the whole directory "/src/Yun_text" to the same folder where the code using it exist
 
 ## supporting function and examples
 * compute tf-idf
@@ -44,5 +44,5 @@ print(dictionary.cosine("word1", "word2"))
 ```
 
 ## The more detailed function of each module can be checked in the link below
-* [termMachine]("./doc/termMachine.md")
-* [Dictionary]("./doc/Dictionary.md")
+* [termMachine](./doc/termMachine.md)
+* [Dictionary](./doc/Dictionary.md)
